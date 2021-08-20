@@ -1,3 +1,6 @@
+## What this project do?
+
+Just another experimental machine learning project of using  [Hyper-Kvasir](https://osf.io/mkzcq/) Endoscopy dataset, and I tried [ImageAI](https://github.com/OlafenwaMoses/ImageAI). After running a few days, half of polyps are correctly identified, although a few false-postive happened. After a week of training, it went to overfitting, that means, it grabs good chunk of true-positive but false-positive ones also increased.
 
 ## Background
 
@@ -24,3 +27,10 @@ conda install coremltools
 - https://blogemtech.medium.com/object-detection-with-imageai-106d584984e9
 - https://github.com/OlafenwaMoses/ImageAI/releases/tag/essential-v4
 - https://github.com/OlafenwaMoses/ImageAI/blob/master/imageai/Detection/Custom/CUSTOMDETECTIONTRAINING.md
+
+
+## Citation
+
+```
+@misc{borgli2020, title={Hyper-Kvasir: A Comprehensive Multi-Class Image and Video Dataset for Gastrointestinal Endoscopy}, url={osf.io/mkzcq}, DOI={10.31219/osf.io/mkzcq}, publisher={OSF Preprints}, author={Borgli, Hanna and Thambawita, Vajira and Smedsrud, Pia H and Hicks, Steven and Jha, Debesh and Eskeland, Sigrun L and Randel, Kristin R and Pogorelov, Konstantin and Lux, Mathias and Nguyen, Duc T D and Johansen, Dag and Griwodz, Carsten and Stensland, H{\aa}kon K and Garcia-Ceja, Enrique and Schmidt, Peter T and Hammer, Hugo L and Riegler, Michael A and Halvorsen, P{\aa}l and de Lange, Thomas}, year={2019}, month={Dec}}
+```
