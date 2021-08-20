@@ -48,6 +48,8 @@ I also installed coremltools because I wanted convert model to work with iPhone.
 conda install coremltools
 ```
 
+(I'll fill in the rest of steps and the training script - super simple no-brain)
+
 ## References
 
 - https://blogemtech.medium.com/object-detection-with-imageai-106d584984e9
