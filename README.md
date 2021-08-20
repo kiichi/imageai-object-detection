@@ -23,6 +23,7 @@ On top of my chicken test, how about roast beef and so on?
 <img src="https://raw.githubusercontent.com/kiichi/imageai-object-detection/main/preview-picked/negative/output/chicken.jpg" height="300"/> <img src="https://raw.githubusercontent.com/kiichi/imageai-object-detection/main/preview-picked/negative/output/chicken2.jpg" height="300"/>
 
 At least this image with Shiba-inu and bumpy wall passed the test... I also tried some tunnel-ish pichture though. looks ok. it doesn't think it's polyps.
+
 <img src="https://raw.githubusercontent.com/kiichi/imageai-object-detection/main/preview-picked/negative/output/shiba.jpg" height="300"/> <img src="https://github.com/kiichi/imageai-object-detection/blob/main/preview-picked/negative/output/tunnel.jpg" height="300"/>
 
 See some picked preview results [here](https://github.com/kiichi/imageai-object-detection/tree/main/preview-picked/negative/output)
