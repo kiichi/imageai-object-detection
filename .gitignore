@@ -1,5 +1,4 @@
 .DS_Store
-coremlconv*
 hololens/
 holotrain.py
 polyps-original/
