@@ -1,6 +1,6 @@
 ## What this project do?
 
-Since I wasn't happy with [Apple's CreateML](https://github.com/kiichi/create-ml-object-detection), this is just another experimental machine learning project of using  [Hyper-Kvasir](https://osf.io/mkzcq/) Endoscopy dataset, and I tried [ImageAI](https://github.com/OlafenwaMoses/ImageAI). After running a few days, half of polyps are correctly identified, although a few false-postive happened. After a week of training, it went to overfitting, that means, it grabs good chunk of true-positive but false-positive ones also increased.
+Since I wasn't happy with the result by playing with Apple's CreateML trained data [in my previous test project](https://github.com/kiichi/create-ml-object-detection), this is just another experimental machine learning project of using  [Hyper-Kvasir](https://osf.io/mkzcq/) Endoscopy dataset, and I tried [ImageAI](https://github.com/OlafenwaMoses/ImageAI). After running a few days, half of polyps are correctly identified, although a few false-postive happened. After a week of training, it went to overfitting, that means, it grabs good chunk of true-positive but false-positive ones also increased.
 
 Updte: Loss is now below 5.0 or so, getting much better result... still going back and forth for overfitting. I'll see if I can bring the loss down to below 1.5 or so then I might calculate some stats
 
